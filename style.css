@@ -1,0 +1,14 @@
+#welcome-section {
+  height: 100vh;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0sss;
+}
+@media only screen and (min-width: 601px) {
+  div.example {
+    font-size: 80px;
+  }
+}
